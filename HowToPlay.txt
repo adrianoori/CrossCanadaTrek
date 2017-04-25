@@ -1,0 +1,30 @@
+INTRO: 
+
+Cross Canada Trek is meant to be an educational game to teach students geography as such it includes the national capital, all provincial and territorial capitals, former national capitals (e.g. Kingston, Montreal) and economically important cities (e.g. Vancouver). 
+
+HOW TO PLAY:
+
+Each player will start at a random city, will be given a random destination to reach in order and start with a random amount of money between $50 and $100. Going from one city to another costs money. If the player reaches their destination they win, if the run out of money or don’t have enough money to go anywhere else they lose. There’s the possibility of picking up packages in cities, each package having a destination and a value it’s worth upon delivery. The player can only hold one package at a time.
+
+LIST OF COMMANDS:
+
+•	N (North)
+•	Player pays and moves to the city to their north
+	E (East)
+•	Player pays and moves to the city to their east
+	S (South)
+•	Player pays and moves to the city to their south
+	W (West)
+•	Player pays and moves to the city to their west
+	M (Map)
+•	Opens a map and showing all locations
+	L (Look)
+•	Lists the cities around the player’s current location and how much it costs to travel to each city
+	P (Package, Pickup)
+•	Player picks up the package in the city they are located in if they aren’t already carrying a package
+	D (Deliver, Drop)
+•	Player drops the package they are holding, if they are in the package’s destination city they get the package’s delivery money
+	I (Info, Information)
+•	Prints out the player’s information, their current location, how much money they have, their destination and if they’re carrying a package its information
+	X (Exit)
+•	Exit the game
